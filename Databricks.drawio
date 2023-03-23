@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T17:05:44.546Z" agent="5.0 (Windows)" etag="c5JTt0N_2M3joVsDJcri" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T17:17:09.571Z" agent="5.0 (Windows)" etag="goACSMjSJx-AmyDqHIJL" version="21.0.10" type="github">
   <diagram name="Page-1" id="mvxoPzZDPtbUDeEoAUA9">
-    <mxGraphModel dx="1191" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,20 +17,50 @@
         <mxCell id="nMdtc5GlGOttccwo4Kmc-4" value="ETL, ML solution " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="175" y="49" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nMdtc5GlGOttccwo4Kmc-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Apache Spark Core&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="136" y="170" width="160" height="120" as="geometry" />
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-9" target="nMdtc5GlGOttccwo4Kmc-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nMdtc5GlGOttccwo4Kmc-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;API&lt;/font&gt;&lt;/b&gt;&lt;br&gt;R, SQL, Python, Scala, Java" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="136" y="219" width="99" height="51" as="geometry" />
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-9" target="nMdtc5GlGOttccwo4Kmc-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nMdtc5GlGOttccwo4Kmc-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/terminal-sharp-128.png" vertex="1" parent="1">
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-9" target="nMdtc5GlGOttccwo4Kmc-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-9" target="nMdtc5GlGOttccwo4Kmc-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-9" target="nMdtc5GlGOttccwo4Kmc-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-12" target="nMdtc5GlGOttccwo4Kmc-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/terminal-sharp-128.png;imageBackground=default;imageBorder=none;noLabel=0;" vertex="1" parent="1">
           <mxGeometry x="36" y="226" width="37" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="nMdtc5GlGOttccwo4Kmc-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-12" target="nMdtc5GlGOttccwo4Kmc-10">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="350" as="sourcePoint" />
-            <mxPoint x="120" y="300" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-14" value="Spark SQL" style="rounded=0;whiteSpace=wrap;html=1;glass=0;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="145" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-15" value="Spark Streaming" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="180" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-16" value="MLlib" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="215" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-17" value="GraphX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="250" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-18" value="SparkR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="285" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="136" y="170" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Apache Spark Core&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="nMdtc5GlGOttccwo4Kmc-27">
+          <mxGeometry width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;API&lt;/font&gt;&lt;/b&gt;&lt;br&gt;R, SQL, Python, Scala, Java" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nMdtc5GlGOttccwo4Kmc-27">
+          <mxGeometry y="49" width="99" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
