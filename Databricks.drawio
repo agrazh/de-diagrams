@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T16:18:44.934Z" agent="5.0 (Windows)" etag="yrpVKIX1FaNp_3DkRYrb" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T16:25:51.970Z" agent="5.0 (Windows)" etag="8H7a1JBppsNPBk_yOEYo" version="21.0.10" type="github">
   <diagram name="Page-1" id="mvxoPzZDPtbUDeEoAUA9">
-    <mxGraphModel dx="1191" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-1" value="Databricks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36" y="49" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-3" value="DeltaLake = DWH + Data Lake" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="36" y="197" width="201" height="41" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
