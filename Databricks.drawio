@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-23T17:55:26.082Z" agent="5.0 (Windows)" etag="AMTB0Kb2H20eWeVlnbmQ" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-23T22:37:48.419Z" agent="5.0 (Windows)" etag="MQWDoP-bNyWVqohgB2YY" version="21.0.10" type="github">
   <diagram name="Page-1" id="mvxoPzZDPtbUDeEoAUA9">
-    <mxGraphModel dx="993" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCCCCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,8 +14,8 @@
             <mxGeometry x="792" y="145" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="nMdtc5GlGOttccwo4Kmc-4" value="ETL, ML solution " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="175" y="49" width="100" height="30" as="geometry" />
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-4" value="ETL, Analytics, ML solution " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="49" width="157" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMdtc5GlGOttccwo4Kmc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-9" target="nMdtc5GlGOttccwo4Kmc-14">
           <mxGeometry relative="1" as="geometry" />
@@ -35,7 +35,7 @@
         <mxCell id="nMdtc5GlGOttccwo4Kmc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nMdtc5GlGOttccwo4Kmc-12" target="nMdtc5GlGOttccwo4Kmc-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nMdtc5GlGOttccwo4Kmc-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/terminal-sharp-128.png;imageBackground=default;imageBorder=none;noLabel=0;" vertex="1" parent="1">
+        <mxCell id="nMdtc5GlGOttccwo4Kmc-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-sharp-vol-2/512/terminal-sharp-128.png;imageBackground=default;imageBorder=default;noLabel=0;" vertex="1" parent="1">
           <mxGeometry x="36" y="226" width="37" height="37" as="geometry" />
         </mxCell>
         <UserObject label="Spark SQL" tooltip="Structured data processing" id="nMdtc5GlGOttccwo4Kmc-14">
@@ -61,7 +61,7 @@
         <mxCell id="nMdtc5GlGOttccwo4Kmc-27" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="136" y="170" width="160" height="120" as="geometry" />
         </mxCell>
-        <UserObject label="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Apache &lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Spark Core&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" tooltip="RDD, MapReduce, etc." id="nMdtc5GlGOttccwo4Kmc-9">
+        <UserObject label="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Apache &lt;span style=&quot;background-color: rgb(213, 232, 212);&quot;&gt;Spark Core&lt;/span&gt;&lt;/b&gt;&lt;/font&gt;" tooltip="RDD, MapReduce, Cluster management etc." id="nMdtc5GlGOttccwo4Kmc-9">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="nMdtc5GlGOttccwo4Kmc-27">
             <mxGeometry width="160" height="120" as="geometry" />
           </mxCell>
@@ -88,6 +88,29 @@
             <mxGeometry x="411" y="250" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="SSF3-dgxGvlv1A8OcGRK-6" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="36" y="418" width="117" height="97" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;b&gt;DBFS&lt;/b&gt;" tooltip="Databricks File System" id="SSF3-dgxGvlv1A8OcGRK-2">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;shadow=0;verticalAlign=top;spacingTop=20;" vertex="1" parent="SSF3-dgxGvlv1A8OcGRK-6">
+            <mxGeometry width="116.99999999999999" height="97" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SSF3-dgxGvlv1A8OcGRK-5" value="Azure Blob Storage" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#E6E6E6;" vertex="1" parent="SSF3-dgxGvlv1A8OcGRK-6">
+          <mxGeometry y="72" width="116.99999999999999" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="SSF3-dgxGvlv1A8OcGRK-7" value="&lt;b&gt;HDFS&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="418" width="53" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="SSF3-dgxGvlv1A8OcGRK-8" value="mount" style="endArrow=halfCircle;html=1;rounded=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;endFill=0;labelBackgroundColor=default;labelBorderColor=none;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SSF3-dgxGvlv1A8OcGRK-7" target="SSF3-dgxGvlv1A8OcGRK-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="196" y="384" as="sourcePoint" />
+            <mxPoint x="134" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SSF3-dgxGvlv1A8OcGRK-9" value="&lt;b&gt;Apache Spark&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;(processing only unit)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="194" y="418" width="120" height="60" as="geometry" />
+        </mxCell>
         <object label="Layer1" id="nMdtc5GlGOttccwo4Kmc-39">
           <mxCell parent="0" />
         </object>
