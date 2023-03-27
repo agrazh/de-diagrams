@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T14:10:42.236Z" agent="5.0 (Windows)" etag="pkDs_lV9B6NJeS4iopNp" version="21.0.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T21:34:33.416Z" agent="5.0 (Windows)" etag="JHL-W2Ha62hvxgybp1xM" version="21.0.10" type="github">
   <diagram name="Page-1" id="mvxoPzZDPtbUDeEoAUA9">
-    <mxGraphModel dx="993" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#CCCCCC" math="0" shadow="0">
+    <mxGraphModel dx="993" dy="663" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,9 +69,9 @@
         <mxCell id="nMdtc5GlGOttccwo4Kmc-10" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;API&lt;/font&gt;&lt;/b&gt;&lt;br&gt;R, SQL, Python, Scala, Java" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="nMdtc5GlGOttccwo4Kmc-27">
           <mxGeometry y="49" width="99" height="51" as="geometry" />
         </mxCell>
-        <UserObject label="LakeHouse = DWH + Datalake" id="nMdtc5GlGOttccwo4Kmc-29">
+        <UserObject label="&lt;div&gt;LakeHouse = DWH + Datalake = DeltaLake in Databricks&lt;/div&gt;" id="nMdtc5GlGOttccwo4Kmc-29">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-            <mxGeometry x="796" y="43" width="200" height="30" as="geometry" />
+            <mxGeometry x="792" y="57" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="nMdtc5GlGOttccwo4Kmc-35" value="Essential I/O functionalities. All components are built on the top of Spark Core." style="text;html=1;strokeColor=none;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;labelBorderColor=none;glass=0;fontSize=10;comic=1;absoluteArcSize=0;arcSize=18;" vertex="1" parent="1">
