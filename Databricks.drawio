@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-06T21:00:44.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="zXUS3tZ1nADwxFiSEqXm" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-10T18:11:51.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="1nWz3-C6EoNv1xpKDg3-" version="21.1.5" type="github">
   <diagram name="Page-1" id="mvxoPzZDPtbUDeEoAUA9">
     <mxGraphModel dx="1191" dy="795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
         </UserObject>
         <UserObject label="Apache Hive - DWH system. Tables are stored in HDFS" id="nMdtc5GlGOttccwo4Kmc-3">
           <mxCell style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-            <mxGeometry x="792" y="145" width="200" height="30" as="geometry" />
+            <mxGeometry x="790" y="138" width="200" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="nMdtc5GlGOttccwo4Kmc-4" value="ETL, Analytics, ML solution " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
