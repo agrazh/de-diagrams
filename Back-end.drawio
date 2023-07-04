@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T20:17:18.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="vOvwujbPohNDrspVMK9f" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T20:18:20.223Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="ZftiolW3szQSDCrecPCh" version="21.3.2" type="github">
   <diagram name="Page-1" id="Rw8HSiMwXpafIOUnl7IF">
     <mxGraphModel dx="949" dy="681" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -209,8 +209,8 @@
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-86" value="secure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="365" y="1350" width="153" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qGmf7XJ8JI8CwWFyn86P-87" value="&lt;div&gt;Horizontal (clusters)&lt;/div&gt;&lt;div&gt;Vertical (hardware)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;comic=1;imageAspect=1;align=left;spacingLeft=10;" vertex="1" parent="1">
-          <mxGeometry x="380.5" y="1141" width="137.5" height="70" as="geometry" />
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-87" value="&lt;div&gt;Horizontal (cluster nodes)&lt;/div&gt;&lt;div&gt;Vertical (hardware)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;comic=1;imageAspect=1;align=left;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="364" y="1141" width="170.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-90" value="&lt;div&gt;Impacts all previous stages&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;comic=1;imageAspect=1;align=left;spacingLeft=10;fillColor=#CCFFFF;" vertex="1" parent="1">
           <mxGeometry x="567" y="1398" width="171" height="23.5" as="geometry" />
