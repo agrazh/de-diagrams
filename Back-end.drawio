@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T17:51:32.767Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="LYB-kzhVR8jMUoXRcED1" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T17:54:09.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="yrntW8kYEth6VeQpup1D" version="21.3.2" type="github">
   <diagram name="Page-1" id="Rw8HSiMwXpafIOUnl7IF">
     <mxGraphModel dx="769" dy="551" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -72,9 +72,9 @@
             <mxPoint x="152" y="1304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qGmf7XJ8JI8CwWFyn86P-22" value="&lt;div&gt;Fault tolerance&lt;/div&gt;&lt;div&gt;&amp;amp;&lt;/div&gt;&lt;div&gt;High availability&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-60;" connectable="0" vertex="1" parent="qGmf7XJ8JI8CwWFyn86P-21">
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-22" value="&lt;div&gt;Fault tolerance &amp;amp;&lt;/div&gt;&lt;div&gt;High availability&lt;/div&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-60;" connectable="0" vertex="1" parent="qGmf7XJ8JI8CwWFyn86P-21">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-50" y="-3" as="offset" />
+            <mxPoint x="-42" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-23" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=20;comic=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
