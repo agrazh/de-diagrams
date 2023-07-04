@@ -1,9 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2023-07-04T16:15:39.802Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" version="21.3.2" etag="NkFfBVJeAR3qVhUrzH7I" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-04T16:34:26.077Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="yPpowArsIyd_5kP-e_YG" version="21.3.2" type="github">
   <diagram name="Page-1" id="Rw8HSiMwXpafIOUnl7IF">
-    <mxGraphModel>
+    <mxGraphModel dx="1009" dy="724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#E6E6E6" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-5" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=20;comic=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="66" y="66" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-6" value="" style="endArrow=open;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="1" source="qGmf7XJ8JI8CwWFyn86P-5" target="qGmf7XJ8JI8CwWFyn86P-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="149" y="320" as="sourcePoint" />
+            <mxPoint x="417" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-7" value="Data" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-30;" connectable="0" vertex="1" parent="qGmf7XJ8JI8CwWFyn86P-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-21" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-8" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=20;comic=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="66" y="415" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-9" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1;fontSize=20;comic=0;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="66" y="610" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-11" value="" style="endArrow=open;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qGmf7XJ8JI8CwWFyn86P-8" target="qGmf7XJ8JI8CwWFyn86P-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="479" y="346" as="sourcePoint" />
+            <mxPoint x="436" y="327" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qGmf7XJ8JI8CwWFyn86P-12" value="Integrations" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;fontSize=14;labelBackgroundColor=none;fontFamily=Comic Sans MS;rotation=-45;" connectable="0" vertex="1" parent="qGmf7XJ8JI8CwWFyn86P-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-37" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
