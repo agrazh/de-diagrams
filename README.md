@@ -1,1 +1,1 @@
-Cheat sheets and diagrams
+Cheat sheets and diagrams :cherries:
