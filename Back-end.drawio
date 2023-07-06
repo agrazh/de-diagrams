@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-05T20:14:38.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="qtWfl03mQkGPszLLxzRM" version="21.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-06T20:57:35.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="TRZHRpNwWwk6wKBu98V0" version="21.6.1" type="github">
   <diagram name="Page-1" id="Rw8HSiMwXpafIOUnl7IF">
     <mxGraphModel dx="854" dy="786" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#E6E6E6" math="0" shadow="0">
       <root>
@@ -120,16 +120,16 @@
           <mxGeometry x="355" y="105" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-55" value="&lt;div&gt;Client&lt;/div&gt;&lt;div&gt;API&lt;/div&gt;&lt;div&gt;Mobile&lt;/div&gt;&lt;div&gt;LAN&lt;/div&gt;&lt;div&gt;IOT&lt;/div&gt;&lt;div&gt;Blockchain, ... &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;comic=1;imageAspect=1;align=left;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="169" y="388" width="102" height="100" as="geometry" />
+          <mxGeometry x="168" y="388" width="102" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-56" value="&lt;div&gt;destination / sink&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="163" y="356" width="118" height="30" as="geometry" />
+          <mxGeometry x="162" y="356" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-58" value="&lt;div&gt;HTTP&lt;/div&gt;&lt;div&gt;TCP, UDP&lt;/div&gt;&lt;div&gt;RPC&lt;br&gt;&lt;/div&gt;&lt;div&gt;WebRTC&lt;/div&gt;&lt;div&gt;WebSocket&lt;/div&gt;&lt;div&gt;GraphQL&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;comic=1;imageAspect=1;align=left;spacingLeft=10;" parent="1" vertex="1">
-          <mxGeometry x="347" y="388" width="104" height="100" as="geometry" />
+          <mxGeometry x="346" y="388" width="104" height="100" as="geometry" />
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-59" value="transport" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="339" y="358" width="118" height="30" as="geometry" />
+          <mxGeometry x="338" y="358" width="118" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGmf7XJ8JI8CwWFyn86P-61" value="&lt;div&gt;Number of users&lt;br&gt;&lt;/div&gt;&lt;div&gt;QPS&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;labelBackgroundColor=none;comic=1;imageAspect=1;align=left;spacingLeft=10;" parent="1" vertex="1">
           <mxGeometry x="169" y="621" width="118" height="55" as="geometry" />
