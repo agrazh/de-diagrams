@@ -2,7 +2,7 @@
 .
 
 # One liners
-:small_orange_diamond: Get groups of n-th elements from each tuple
+:small_orange_diamond: Group n-th elements from each tuple
 ```python
 data = [(1, 2, 3), (1, 2, 3), (1, 2, 3)]
 l1 = []; l2 = []; l3 = []
