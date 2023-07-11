@@ -7,7 +7,6 @@ Group n-th elements from each tuple
 
 ```python
 data = [(1, 2, 3), (1, 2, 3), (1, 2, 3)]
-l1 = []; l2 = []; l3 = []
 
 res = list(zip(*data)))
 # res: [(1, 1, 1), (2, 2, 2), (3, 3, 3)]
