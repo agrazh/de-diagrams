@@ -118,7 +118,54 @@ VALUES
 </details>
 
 
+## Basics
 
+<details>
+<summary>Create schema</summary>
+
+`psql=> c\ ent_db` - connect to the desired database
+
+```sql
+CREATE SCHEMA IF NOT EXISTS ent_sch;
+
+SET search_path TO ent_sch;
+
+CREATE TABLE mytable (
+    id serial PRIMARY KEY,
+    name varchar(255),
+    age int
+);
+```
+
+</details>
+
+
+<details>
+<summary>Create database, schema, table</summary>
+
+```sql
+-- create DB
+CREATE DATABSE ent_db
+TABLESPACE = pg_default;
+
+-- connect to the desired database
+-- `psql=> c\ ent_db`
+
+-- create schema
+CREATE SCHEMA IF NOT EXISTS ent_sch;
+
+-- switch to the desired schema
+SET search_path TO ent_sch;
+
+-- create table
+CREATE TABLE tproducts (
+    id serial PRIMARY KEY,
+    name varchar(255),
+    price int
+);
+```
+
+</details>
 
 ## References
 
