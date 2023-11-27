@@ -76,7 +76,3 @@ spark2.range(100).toDF().createOrReplaceTempView("vtable_2")
 // list all tables in both sessions
 spark1.catalog.listTables.show()  // or `spark1.sqlContext.sql("show tables").show()`
 spark2.catalog.listTables.show()  // or `spark2.sql("show tables").show()`
-
-// COMMAND ----------
-
-spark.sparkContext.parallelize
